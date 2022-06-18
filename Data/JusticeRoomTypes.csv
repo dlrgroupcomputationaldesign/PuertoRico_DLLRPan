@@ -1,0 +1,140 @@
+,Label,Cluster,ClusterCount
+0,table tables wall walls,-1,42791
+1,rectangular rectangle,81,8320
+2,sink sinks countertop,48,7847
+3,wall mtd,65,5721
+4,floor drain,52,5069
+5,chair task,102,4352
+6,comby combi planter,105,4298
+7,microwave cab cabs,27,3630
+8,locker lockers single,0,3582
+9,ceiling llf,96,3446
+10,wall mounted mount,117,3228
+11,shelf shelving shelves,53,2806
+12,mirror framed frame,85,2678
+13,bars grab bar,19,2556
+14,cabinet drawer drawers,59,2535
+15,dispenser soap dispensers,13,2435
+16,ext fixed,17,2407
+17,abuse molded,24,2292
+18,dispenser dispensers toilet,14,2196
+19,wall gas,82,2180
+20,canopy uncloseted,92,2154
+21,shaped shape round,130,2034
+22,emi damper,91,2032
+23,toilet lavatory lavatories,111,1975
+24,fence gate,57,1938
+25,workstation ped,36,1929
+26,table leg,131,1911
+27,wall access,41,1839
+28,tlt seat seating,15,1831
+29,chair desk,124,1807
+30,tlt compartment,12,1775
+31,seating seat chair chairs,116,1772
+32,bed beds king,62,1697
+33,shower seat,16,1645
+34,lighting light led,84,1593
+35,data port,95,1566
+36,double bunk,66,1503
+37,vertical precast,33,1496
+38,horiz grab,20,1447
+39,stool mtd,1,1412
+40,panel panels end,67,1405
+41,face surface,129,1387
+42,cell cells button,34,1281
+43,flush valve,93,1256
+44,desk office officer,120,1192
+45,screen flat,88,1186
+46,exhaust grille,110,1120
+47,bench benching davis,29,1091
+48,storage cabinet,54,1044
+49,supply ceiling,90,1041
+50,rack device devices,60,1031
+51,light lighting switches,86,992
+52,sensors sensor ceiling,79,981
+53,courtroom jury,47,933
+54,downlight llf,63,932
+55,alarm ceiling,80,884
+56,roof drain,75,873
+57,supply diffuser,103,857
+58,table rectangle,134,821
+59,antenna panel panels,4,819
+60,egress pass,126,788
+61,return grille,109,717
+62,toilet floor,112,713
+63,stainless steel,6,712
+64,hook robe,11,705
+65,cabinet extinguisher,31,685
+66,fixed int,22,633
+67,fan inline,106,612
+68,reheat vav,8,611
+69,phone telephone,118,603
+70,table tables exam,98,576
+71,marker board,43,563
+72,curtain track,30,558
+73,outlet sdd,100,522
+74,urinal screen,74,515
+75,heater heaters unit,73,504
+76,waste trash,5,500
+77,arms arm chair,101,449
+78,acoustic acoustical panels panel,9,418
+79,refrigerator freezer,26,415
+80,wall linear,35,401
+81,corner mullion,123,392
+82,mul ext,18,390
+83,wall sink,108,349
+84,control monitor,87,348
+85,fitness rack racks,68,327
+86,chair dining,125,325
+87,table tables round,137,321
+88,table chairs,122,300
+89,box boxes outlet,71,286
+90,int lite,21,273
+91,lounge chair,114,262
+92,faucet plumbing plumb,51,262
+93,window windows glass,128,252
+94,lounge seating seat,113,218
+95,drink drinking fountain,10,213
+96,llf end,94,185
+97,railing rail din,46,180
+98,points elum,3,180
+99,cooler equip,61,170
+100,table tables coffee,132,162
+101,table round,136,157
+102,counter transaction,107,152
+103,dryer electric,38,150
+104,cart mobile,37,145
+105,supply diffuser diffusers,89,145
+106,storage files file,50,137
+107,clock wall,83,127
+108,sofas sofa lounge,76,124
+109,exterior camera,64,117
+110,scanner xray,56,110
+111,washer dishwasher,39,105
+112,printer laser,42,102
+113,std host,104,102
+114,table power,135,100
+115,symbol glazing glazed,127,97
+116,station box,70,91
+117,table base,133,84
+118,elective elements,25,84
+119,single visa,45,80
+120,basketball frame,23,77
+121,ssd outlet,99,77
+122,ipf sink,97,76
+123,ffe medical,55,73
+124,dental chair,2,69
+125,private desk,119,64
+126,vacuum range,78,52
+127,cabinet storage,58,51
+128,sps shredder,40,51
+129,stair elevator,28,50
+130,ice machine,69,49
+131,ottoman base,115,40
+132,coffee maker,121,40
+133,divider tall,7,36
+134,pump line,77,29
+135,market erm,49,17
+136,canvas surface,32,16
+137,partition hufcor,44,15
+138,tank elec,72,13
